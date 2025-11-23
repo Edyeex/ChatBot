@@ -1,0 +1,11 @@
+#Pastas de autenticação e sessão do WhatsApp Web.js
+.wwebjs_auth/
+
+#Dependências do Node.js
+node_modules/
+
+
+.wwebjs_cache/
+
+package-lock.json
+package.json
